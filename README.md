@@ -1,5 +1,5 @@
 # Used-Car-Listings
-The goal of this Analysis was to find the features which both buyer and seller should consider before buying a used car.
+The goal of this analysis was to find the features which both buyer and seller should consider before buying a used car.
 
 
 Buying a used car online is easier than it has ever been. In 2019, there were almost 41 million used cars sold in the United States, compared to only 17 million new car sales.  Additionally, the coronavirus pandemic has made the used car market surge to levels it hasn’t seen in over 50 years (See Appendix I).  Used cars are often more affordable of an investment than purchasing a brand-new vehicle from the dealership, which partially explains why there is consistently a larger volume of used cars purchased per year than new cars; other reasons include purchasing “project” cars, purchasing rare cars that are hard to find, and purchasing older vehicles that are not made anymore. With such a large and growing demand for used cars, our team sought to analyze what features of a used car tend to increase its resale price.
